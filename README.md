@@ -1,2 +1,2 @@
-# degugpigdet
+# debugpigdet
 code for pig detection
